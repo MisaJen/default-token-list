@@ -288,5 +288,13 @@
     "symbol": "NYAN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/nyan.jpg"
-  }  
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1C50751A54df214aCdA7bEc2eF99c317898a12a2",
+    "name": "MidasArbi",
+    "symbol": "MARBI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/marbi.jpg"
+  }
 ]
